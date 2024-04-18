@@ -1,0 +1,31 @@
+img{
+    display: block;
+    width: 500px;
+    height: 600px;
+}
+
+body{
+    background-color: #D1FFBD;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+.header{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pickleball{
+    font-weight: bold;
+    color: black;
+}
+
+.video{
+    text-decoration: underline;
+}
+
+.link{
+    font-size: 20px;
+    text-decoration: underline;
+}
